@@ -282,7 +282,7 @@ UPDATE INHABITANT SET name = 'Your Name' WHERE personid = 20;
 
 After navigating through the challenges of **SQL Island**, rescuing the pilot, and taking down Dirty Dieter, I have successfully earned my certificate!
 
-### 🎓 Final Reward: [View My Certificate of Completion (PDF)](./Certificate_SQL-Island.pdf)
+![Certificate of Completion](./Certificate.png)
 
 > **"Mastering SQL is the first step to conquering any data-driven world."**
 
