@@ -275,3 +275,15 @@ The game is over. Get your certificate of completion now! If you want to change 
 UPDATE INHABITANT SET name = 'Your Name' WHERE personid = 20;
 ```
 ![Solution 24](Solution_24.png)
+
+---
+
+## 🏆 Mission Accomplished!
+
+After navigating through the challenges of **SQL Island**, rescuing the pilot, and taking down Dirty Dieter, I have successfully earned my certificate!
+
+### 🎓 Final Reward: [View My Certificate of Completion (PDF)](./Certificate_SQL-Island.pdf)
+
+> **"Mastering SQL is the first step to conquering any data-driven world."**
+
+Thank you for following along with my journey!
