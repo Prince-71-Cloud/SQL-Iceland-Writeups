@@ -1,6 +1,6 @@
 # SQL-Island
 
-SQL Island is a fun introduction to learning and using SQL. The challenge can be solved on this website: [SQL ISLAND](https://sql-island.informatik.uni-kl.de/)
+SQL Island is a fun introduction to learning and using SQL. The challenge can be solved on this website: <a href="https://sql-island.informatik.uni-kl.de/" target="_blank">SQL ISLAND</a>
 
 This is my approach to solving the SQL Island challenge.
 
